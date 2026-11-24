@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="188" viewBox="0 0 880 188" role="img" aria-label="Agent Engineering Playbook：面向业务场景的 AI Agent 工程文档，涵盖规则分层、记忆管理、输出校验与反模式清单，适用于 Claude Code、Codex 与 Cursor。">
+<title>Agent Engineering Playbook：面向业务场景的 AI Agent 工程文档，涵盖规则分层、记忆管理、输出校验与反模式清单，适用于 Claude Code、Codex 与 Cursor。</title>
+
+<rect x="0.5" y="0.5" width="879" height="187" rx="12" fill="#ffffff" stroke="#d8dee4"/>
+<text x="36" y="53" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#b4532a" letter-spacing="0.5">02</text>
+<text x="96" y="55" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="24" font-weight="700"><tspan fill="#1f2328">Agent Engineering Playbook</tspan></text>
+
+<text x="96" y="94" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="16" fill="#424a53">面向业务场景的 AI Agent 工程文档，涵盖规则分层、记忆管理、输出校验与反模式清单，</text>
+<text x="96" y="121" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="16" fill="#424a53">适用于 Claude Code、Codex 与 Cursor。</text>
+<line x1="96" y1="140.5" x2="844" y2="140.5" stroke="#eaeef2" stroke-width="1"/>
+<text x="96" y="163" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#6e7781">github.com/Cleoooyan/agent-engineering-playbook</text>
+<path d="M828 158.5 H843 M838 153.5 L843 158.5 L838 163.5" fill="none" stroke="#b4532a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

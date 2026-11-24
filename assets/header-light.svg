@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="184" viewBox="0 0 880 184" role="img" aria-label="Cleo — 供应链计划，数据分析与流程自动化。">
+<title>Cleo — 供应链计划，数据分析与流程自动化。</title>
+
+<text x="2" y="30" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#6e7781" letter-spacing="0.5">@Cleoooyan</text>
+<text x="0" y="112" font-family="Georgia,'Times New Roman','Songti SC',serif" font-size="76" fill="#1f2328" letter-spacing="-1">Cleo</text>
+<text x="2" y="160" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="18" fill="#424a53" letter-spacing="0.5">供应链计划，数据分析与流程自动化。</text>
+<g>
+<line x1="600" y1="72" x2="870" y2="72" stroke="#eaeef2" stroke-width="1"/><line x1="600" y1="102" x2="870" y2="102" stroke="#eaeef2" stroke-width="1"/><line x1="600" y1="132" x2="870" y2="132" stroke="#eaeef2" stroke-width="1"/>
+<line x1="600" y1="152" x2="870" y2="152" stroke="#d8dee4" stroke-width="1"/>
+<line x1="600" y1="152" x2="600" y2="156" stroke="#d8dee4" stroke-width="1"/><line x1="630" y1="152" x2="630" y2="156" stroke="#d8dee4" stroke-width="1"/><line x1="660" y1="152" x2="660" y2="156" stroke="#d8dee4" stroke-width="1"/><line x1="690" y1="152" x2="690" y2="156" stroke="#d8dee4" stroke-width="1"/><line x1="720" y1="152" x2="720" y2="156" stroke="#d8dee4" stroke-width="1"/><line x1="750" y1="152" x2="750" y2="156" stroke="#d8dee4" stroke-width="1"/><line x1="780" y1="152" x2="780" y2="156" stroke="#d8dee4" stroke-width="1"/><line x1="810" y1="152" x2="810" y2="156" stroke="#d8dee4" stroke-width="1"/><line x1="840" y1="152" x2="840" y2="156" stroke="#d8dee4" stroke-width="1"/><line x1="870" y1="152" x2="870" y2="156" stroke="#d8dee4" stroke-width="1"/>
+<line x1="600" y1="128" x2="870" y2="74" stroke="#6e7781" stroke-width="1.25" stroke-dasharray="4 4" opacity="0.7"/>
+<polyline points="600,132 640,121 680,125 720,104 760,109 800,88 840,81 870,64" fill="none" stroke="#b4532a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="870" cy="64" r="7" fill="#b4532a" opacity="0.18"/>
+<circle cx="870" cy="64" r="3.5" fill="#b4532a"/>
+</g>
+</svg>
